@@ -1,0 +1,44 @@
+#header{
+    background-image: url(IMG-20210816-WA0038.jpg);
+    height: 90px;
+    border-radius: 10px;
+    text-align: center;
+}
+#navbar{
+    height: 40px;
+    background-color: orange;
+    padding: 0px;
+}
+#navbar a{
+    color: black;
+    background-color:orange;
+    align-self: center;
+}
+#navbar a:hover{
+    color: green;
+    background-color: yellow;
+    
+}
+#navbar ul{
+    list-style: none;
+}
+#navbar ul li{
+    width: 200px;
+    float: left;
+    text-align: center;
+    padding: 5px;
+}
+
+body{
+    background-color: lightgreen;
+}
+p{
+    color:brown;
+    font-family: comic sans ms;
+    font-size: 1.4pc;
+}
+h{
+    color: yellow;
+    font-family: algerian;
+    font-size: 5pc;
+}
